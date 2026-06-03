@@ -1,1 +1,1 @@
-
+## Aqui está a resposta detalhada sobre o tipo de interface e os equipamentos necessários para desenvolver um gerenciador de cursos internos acessível para funcionários com deficiência visual. O documento explica a escolha da interface orientada à fala e os equipamentos assistivos essenciais para garantir a usabilidade e a inclusão.
