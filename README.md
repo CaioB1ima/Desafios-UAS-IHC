@@ -1,6 +1,7 @@
-# Repositório de Desafios UAS (Unidade de Aprendizagem Supervisionada)
+# Repositório de Desafios UAS (Unidade de Aprendizagem Supervisionada )
 
 **Aluno:** Caio Barbosa de Lima
+
 Este repositório foi criado para consolidar e apresentar os resultados dos desafios propostos nas Unidades de Aprendizagem Supervisionada (UAS ) de 01 a 04. Cada desafio aborda conceitos e práticas relevantes, com o objetivo de demonstrar a aplicação de conhecimentos em cenários práticos.
 
 ## Navegação pelos Desafios
@@ -23,14 +24,14 @@ Clique nos botões abaixo para acessar diretamente a pasta de cada Unidade de Ap
     <img src="https://img.shields.io/badge/UA%203-Storyboarding%20e%20Prototipa%C3%A7%C3%A3o-blue?style=for-the-badge" alt="UA 3 - Storyboarding e Prototipação">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://com/CaioB1ima/Desafios-UAS-IHC/tree/main/DESAFIO%20UAS%2001-04/DESAFIO%20UA4%20TypeScript">
+  <a href="https://github.com/CaioB1ima/Desafios-UAS-IHC/tree/main/DESAFIO%20UAS%2001-04/DESAFIO%20UA4%20TypeScript">
     <img src="https://img.shields.io/badge/UA%204-TypeScript-blue?style=for-the-badge" alt="UA 4 - TypeScript">
   </a>
 </div>
 
 ## INSTITUIÇÃO DE ENSINO
 <div align="center">
-  <img src="https://img.shields.io/badge/CEUB-purple?style=for-the-badge&color=8A2BE2&labelColor=8A2BE2&logoColor=white" alt="Instituição: CEUB">
+  <a href="https://www.uniceub.br/">
+    <img src="https://img.shields.io/badge/CEUB-purple?style=for-the-badge&color=8A2BE2&labelColor=8A2BE2&logoColor=white" alt="Instituição: CEUB">
+  </a>
 </div>
-
-
