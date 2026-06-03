@@ -1,10 +1,6 @@
 # Repositório de Desafios UAS (Unidade de Aprendizagem Supervisionada)
 
 **Aluno:** Caio Barbosa de Lima
-<div align="center">
-  <img src="https://img.shields.io/badge/CEUB-purple?style=for-the-badge&color=8A2BE2&labelColor=8A2BE2&logoColor=white" alt="Instituição: CEUB">
-</div>
-
 Este repositório foi criado para consolidar e apresentar os resultados dos desafios propostos nas Unidades de Aprendizagem Supervisionada (UAS ) de 01 a 04. Cada desafio aborda conceitos e práticas relevantes, com o objetivo de demonstrar a aplicação de conhecimentos em cenários práticos.
 
 ## Navegação pelos Desafios
@@ -32,7 +28,9 @@ Clique nos botões abaixo para acessar diretamente a pasta de cada Unidade de Ap
   </a>
 </div>
 
-## Estrutura do Repositório
+## INSTITUIÇÃO DE ENSINO
+<div align="center">
+  <img src="https://img.shields.io/badge/CEUB-purple?style=for-the-badge&color=8A2BE2&labelColor=8A2BE2&logoColor=white" alt="Instituição: CEUB">
+</div>
 
-O repositório está organizado de forma clara e intuitiva, facilitando a navegação e a compreensão do conteúdo. A estrutura principal é a seguinte:
 
