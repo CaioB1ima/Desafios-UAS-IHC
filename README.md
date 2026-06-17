@@ -3,7 +3,7 @@
 ## Identificação do Estudante
 
 - **Nome:** Caio Barbosa de Lima
-- **Matrícula:** *(Preencher conforme necessário)*
+- **Matrícula:** 22400449
 - **Curso:** Ciência da Computação
 - **Instituição:** Centro Universitário de Brasília (CEUB)
 - **Data de Entrega:** 16 de junho de 2026
